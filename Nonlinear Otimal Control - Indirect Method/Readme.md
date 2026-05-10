@@ -83,13 +83,13 @@ $$\mathcal{H}(x,u,\lambda) = L(x,u) + \lambda^T f(x,u)$$
 
 
 ### 1. Cost Functional Convergence
-![Cost Convergence](images/Cost_Convergence.png)
+![Cost Convergence](Images/Cost_Convergence.png)
 
 ### 2. Trajectory Evolution 
-<video src="images/trajectory_evolution.mp4" width="600" controls></video>
+![Trajectory](Images/Optimal_Trajectory.png)
 
 ### 3. States and Controls Comparison
-![States Comparison](images/ass1_states.svg)
+![States Comparison](Images/states)
 
 
 ---
