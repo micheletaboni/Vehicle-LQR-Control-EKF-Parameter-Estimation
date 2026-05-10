@@ -88,8 +88,6 @@ $$\mathcal{H}(x,u,\lambda) = L(x,u) + \lambda^T f(x,u)$$
 ### 2. Trajectory Evolution 
 ![Trajectory](Images/Optimal_Trajectory.png)
 
-### 3. States and Controls Comparison
-![States Comparison](Images/states)
 
 
 ---
