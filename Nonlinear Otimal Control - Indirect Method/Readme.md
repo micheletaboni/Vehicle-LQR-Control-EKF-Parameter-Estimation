@@ -31,7 +31,7 @@ $$
 \dot{x}_1 = x_3 \cos(x_4) \\
 \dot{x}_2 = x_3 \sin(x_4) \\
 \dot{x}_3 = x_5 \\
-\dot{x}_4 = u_2
+\dot{x}_4 = u_2 \\
 \dot{x}_5 = \frac{1}{m}(u_1 - 2 C_d x_3 x_5)
 \end{cases}
 $$
