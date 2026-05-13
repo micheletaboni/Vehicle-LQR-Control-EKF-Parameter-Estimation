@@ -78,7 +78,7 @@ $$\hat{x} = \hat{x}^- + K_o (z - C \hat{x}^-), \quad z = C x + v$$
 
 ### 1. States Over Time
 Comparison between the Optimal States and the computed ones, after having used EKF:
-![States ](images/Control_Action_Comparison.png)
+![States ](images/System_Evolution_with_Disturbance_Overview.png)
 
 ### 2. Controls Over Time:
 Comparison between the Optimal Controls and the computed ones, the ones that the controller gives to the car:
