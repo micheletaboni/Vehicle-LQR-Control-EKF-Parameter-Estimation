@@ -78,16 +78,16 @@ $$\hat{x} = \hat{x}^- + K_o (z - C \hat{x}^-), \quad z = C x + v$$
 
 ### 1. States Over Time
 Comparison between the Optimal States and the computed ones, after having used EKF:
-![States ](images/Control Action Comparison.png)
+![States ](images/Control_Action_Comparison.png)
 
 ### 2. Controls Over Time:
 Comparison between the Optimal Controls and the computed ones, the ones that the controller gives to the car:
-![Controls ](images/Control Action Comparison.png)
+![Controls ](images/Control_Action_Comparison.png)
 
 ### 3. Friction Coefficient Estimation
 Estimated $\mu_r$ over time:
-![Friction Coefficient](images/Friction Coefficient.png)
+![Friction Coefficient](images/Friction_Coefficient.png)
 
 ### 4. Observed vs. Optimal Trajectory
 Comparison of the actual trajectory followed by the robot vs. the reference:
-![Trajectory Comparison](images/Optimal Trajectory.png)
+![Trajectory Comparison](images/Optimal_Trajectory.png)
