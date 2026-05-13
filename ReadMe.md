@@ -1,4 +1,4 @@
-# Optimal Control & State Estimation for Autonomous Systems 🚀
+# Optimal Control & State Estimation for Autonomous Systems 
 
 
 ##  Overview
